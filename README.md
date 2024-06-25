@@ -1,9 +1,5 @@
 Welcome to the **Next.js & Tailwind CSS Web UI** repository! This project showcases a stunning web user interface built with Next.js and Tailwind CSS.
 
-## 🚀 Demo
-
-[Live Demo](https://your-live-demo-url.com)
-
 ## 📸 Screenshots
 
 ![Screenshot 1](./image/image.png)
@@ -27,13 +23,17 @@ Follow these steps to get a local copy of the project up and running:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/levisstrauss/tailwind-css-workshop-2.git
+   ```
 2. **Navigate to the project directory::**
    ```bash
    cd tailwind-css-workshop-2
+   ```
 3. **Install the dependencies::**
    ```bash
    npm install
+   ```
 
 4. **Install the dependencies::**
    ```bash
    npm run dev
+   ```
